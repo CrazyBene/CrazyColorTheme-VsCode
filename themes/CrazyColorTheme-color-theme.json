@@ -1,0 +1,163 @@
+/*
+	Created by CrazyBene
+	rough first version
+	some explanation what is what: https://macromates.com/manual/en/
+*/
+
+
+{
+	"name": "Crazy Color Theme",
+	"type": "dark",
+	"colors": {
+		"activityBar.background": "#1a1a1a",
+		"activityBar.activeBorder": "#00ff00",
+		"activityBarBadge.background": "#007acc",
+		"editor.background": "#1a1a1a",
+		"editor.foreground": "#ffffff",
+		"editorGroupHeader.tabsBackground": "#202020",
+		"editorIndentGuide.activeBackground": "#555555",
+		"editorIndentGuide.background": "#222",
+		"sideBar.background": "#202020",
+		"sideBar.foreground": "#fff",
+		"sideBarTitle.foreground": "#fff",
+		"sideBarSectionHeader.background": "#282828",
+		"sideBarSectionHeader.foreground": "#fff",
+		"statusBar.background": "#003d00",
+		"statusBar.foreground": "#ffffff",
+		"tab.activeBackground": "#303030",
+		"tab.hoverBackground": "#303030",
+		"tab.inactiveBackground": "#202020",
+		"tab.activeForeground": "#fff",
+		"titleBar.activeBackground": "#202020",
+		"titleBar.activeForeground": "#fff"
+	},
+	"tokenColors": [
+		{
+			"name": "Punctuations",
+			"scope": [
+				"comment",
+				"punctuation.definition"
+			],
+			"settings": {
+				"foreground": "#fff"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#7f817e"
+			}
+		},
+		{
+			"name": "String",
+			"scope": [
+				"string"
+			],
+			"settings": {
+				"foreground": "#90fc42"
+			}
+		},
+		{
+			"name": "String Quoted",
+			"scope": [
+				"string.quoted"
+			],
+			"settings": {
+				"foreground": "#fcb542"
+			}
+		},
+		{
+			"name": "Operator",
+			"scope": [
+				"keyword.operator",
+				"keyword.operator.assignment",
+			],
+			"settings": {
+				"foreground": "#fff"
+			}
+		},
+		{
+			"name": "Variable Other",
+			"scope": [
+				"variable",
+				"entity"
+			],
+			"settings": {
+				"foreground": "#00d9ff"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": [
+				"storage.modifier",
+				"keyword.type",
+				"keyword.other"
+			],
+			"settings": {
+				"foreground": "#2492ff"
+			}
+		},
+		{
+			"name": "Functions",
+			"scope": [
+				"entity.name.function"
+			],
+			"settings": {
+				"foreground": "#ff8d04"
+			}
+		},
+		{
+			"name": "Type",
+			"scope": [
+				"entity.name.type",
+				"storage"
+			],
+			"settings": {
+				"foreground": "#00ff00"
+			}
+		},
+		{
+			"name": "Numeric",
+			"scope": [
+				"constant.numeric",
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#00ff00"
+			}
+		},
+		{
+			"name": "Variable Property",
+			"scope": [
+				"variable.other.object.property.cs"
+			],
+			"settings": {
+				"foreground": "#00ff9d"
+			}
+		},
+		{
+			"name": "constants (null, false, etc)",
+			"scope": [
+				"constant.language"
+
+			],
+			"settings": {
+				"foreground": "#9a73f5"
+			}
+		},
+		{
+			"name": "latex",
+			"scope": [
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#ff8d04"
+			}
+		}
+	]
+}

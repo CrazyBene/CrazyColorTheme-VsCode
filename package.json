@@ -1,0 +1,22 @@
+{
+    "name": "crazycolortheme",
+    "displayName": "CrazyColorTheme",
+    "description": "CrazyBene's Color Theme",
+    "publisher": "CrazyBene",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CrazyColorTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CrazyColorTheme-color-theme.json"
+            }
+        ]
+    }
+}
