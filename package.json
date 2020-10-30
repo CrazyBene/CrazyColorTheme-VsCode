@@ -3,6 +3,7 @@
     "displayName": "CrazyColorTheme",
     "description": "CrazyBene's Color Theme",
     "publisher": "CrazyBene",
+    "repository": "https://github.com/CrazyBene/CrazyColorTheme",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.44.0"
