@@ -1,10 +1,11 @@
 {
     "name": "crazycolortheme",
     "displayName": "CrazyColorTheme",
-    "description": "CrazyBene's Color Theme",
+    "description": "Color Theme with vibrant Colors for Coding.",
     "publisher": "CrazyBene",
+    "icon": "images/icon.png",
     "repository": "https://github.com/CrazyBene/CrazyColorTheme",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.44.0"
     },
