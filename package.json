@@ -5,7 +5,7 @@
     "publisher": "CrazyBene",
     "icon": "images/icon.png",
     "repository": "https://github.com/CrazyBene/CrazyColorTheme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.44.0"
     },
