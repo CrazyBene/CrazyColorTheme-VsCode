@@ -12,4 +12,4 @@ But if you like it you can of course grab it and use it.
 
 ## Screenshot
 
-![](images\screenshot_full.png)
+![Screenshot](images/screenshot_full.png)
