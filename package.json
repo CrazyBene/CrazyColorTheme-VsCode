@@ -1,24 +1,24 @@
 {
-    "name": "crazycolortheme",
-    "displayName": "CrazyColorTheme",
-    "description": "Color Theme with vibrant Colors for Coding.",
-    "publisher": "CrazyBene",
-    "icon": "images/icon.png",
-    "repository": "https://github.com/CrazyBene/CrazyColorTheme",
-    "version": "1.0.1",
-    "engines": {
-        "vscode": "^1.44.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "CrazyColorTheme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/CrazyColorTheme-color-theme.json"
-            }
-        ]
-    }
+  "name": "crazycolortheme",
+  "displayName": "CrazyColorTheme",
+  "description": "Color Theme with vibrant Colors for Coding.",
+  "publisher": "CrazyBene",
+  "icon": "images/icon.png",
+  "repository": "https://github.com/CrazyBene/CrazyColorTheme",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CrazyColorTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CrazyColorTheme-color-theme.json"
+      }
+    ]
+  }
 }
