@@ -1,6 +1,12 @@
 # CHANGELOG
 
-### <strong>1.1.0 | 2021.02.23</strong>
+### `<strong>`1.1.1 | 2022.11.06 `</strong>`
+
+---
+
+- Try fix some old color issues
+
+### `<strong>`1.1.0 | 2021.02.23 `</strong>`
 
 ---
 
@@ -10,7 +16,7 @@
 
 <br>
 
-### <strong>1.0.1 | 2020.11.03</strong>
+### `<strong>`1.0.1 | 2020.11.03`</strong>`
 
 ---
 
@@ -18,7 +24,7 @@
 
 <br>
 
-### <strong>1.0.0 | 2020.11.03</strong>
+### `<strong>`1.0.0 | 2020.11.03`</strong>`
 
 ---
 
@@ -29,7 +35,7 @@
 
 <br>
 
-### <strong>0.1.0 | 2020.10.31</strong>
+### `<strong>`0.1.0 | 2020.10.31`</strong>`
 
 ---
 
